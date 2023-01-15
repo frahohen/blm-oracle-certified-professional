@@ -21,13 +21,13 @@
 
 * **Java Development Kit (JDK)**
   
-  * <u>Compiler (javac)</u> =>
+  * *Compiler (javac)* =>
     * .java files to .class files (bytecode)
-  * <u>Launcher (java)</u> =>
+  * *Launcher (java)* =>
     * creates Java Virtual Machine (JVM) and executes the program
-  * <u>Archiver (jar)</u> =>
+  * *Archiver (jar)* =>
     * packages files together
-  * <u>API documentation (javadoc)</u> =>
+  * *API documentation (javadoc)* =>
     * generates documentation
 
 * **Java Runtime Environment (JRE)**
