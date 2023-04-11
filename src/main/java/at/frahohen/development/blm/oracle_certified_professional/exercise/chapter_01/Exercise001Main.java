@@ -1,4 +1,4 @@
-package at.frahohen.development.blm.oracle_certified_professional.exercise;
+package at.frahohen.development.blm.oracle_certified_professional.exercise.chapter_01;
 
 public class Exercise001Main {
 

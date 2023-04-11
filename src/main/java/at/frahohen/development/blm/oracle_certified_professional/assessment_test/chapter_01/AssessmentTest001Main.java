@@ -1,4 +1,4 @@
-package at.frahohen.development.blm.oracle_certified_professional.assessment_test;
+package at.frahohen.development.blm.oracle_certified_professional.assessment_test.chapter_01;
 
 public class AssessmentTest001Main {
 	
