@@ -41,6 +41,6 @@
   
   * A lot of APIs contained within the language like StringBuilder, Collections etc
 
-* **Integrated Development Enviornments (IDE) used for Java development**
+* **Integrated Development Environments (IDE) used for Java development**
   
   * Eclipse, IntelliJ IDEA, Netbeans

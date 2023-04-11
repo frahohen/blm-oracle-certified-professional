@@ -4,7 +4,7 @@ public class Exercise001Main {
 
 	// Chapter 1 => in Packages
 	/* 
-	 * TODO: CREATE ORACLE ACCOUNT TO DOWNLOAD THE ORACLE JDK AND TO HAVE AN ACCOUNT FOR EXAM REGISTRATION LATER!!!
+	 * TODO: CREATE ORACLE ACCOUNT TO DOWNLOAD THE ORACLE JDK AND TO HAVE AN ACCOUNT FOR EXAM REGISTRATION LATER!!! => Firmen Account dafür hernehmen und optional privat Account machen.
 	 */
 	
 	public static void main(String[] args) {
